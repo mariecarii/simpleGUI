@@ -1,6 +1,6 @@
 # simpleGUI
 
-<img> ![gui screenshot] (/Users/marieyearup/simpleGUI/simpleGUI/GUI_Screenshot.png) </img>
+![] (images/GUI_Screenshot.png)
 
 ## Project Description
 This project's goal was to introduce myself to java GUI and create my first one. 
