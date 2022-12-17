@@ -1,6 +1,6 @@
 # simpleGUI
 <p>
-<img src="images/GUI_Screenshot.png" />
+<img src="images/GUI_Screenshot.png" alt="screenshot of gui" />
 </p>
 
 ## Project Description
