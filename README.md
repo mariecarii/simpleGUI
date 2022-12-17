@@ -1,6 +1,6 @@
 # simpleGUI
 
-![ScreenShot] (GUI_Screenshot.png)
+![ScreenShot] (https://github.com/mariecarii/simpleGUI/blob/2156355c186c86dad525154110d441262b13b55c/GUI_Screenshot.png)
 
 ## Project Description
 This project's goal was to introduce myself to java GUI and create my first one. 
