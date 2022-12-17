@@ -1,6 +1,6 @@
 # simpleGUI
 
-<img alt="GUI Screenshot" height="10" src="/Users/marieyearup/simpleGUI/simpleGUI/GUI_Screenshot.png" width="10"/>
+![ScreenShot] (/Users/marieyearup/simpleGUI/simpleGUI/GUI_Screenshot.png)
 
 ## Project Description
 This project's goal was to introduce myself to java GUI and create my first one. 
